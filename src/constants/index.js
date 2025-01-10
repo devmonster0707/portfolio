@@ -213,7 +213,7 @@ const projects = [
       "DNI is an online shopping store for selling and buying products. By just having a smartphone, it can easily accomplish all HR procedures, which is impressive. With this application, it’s easyto order your favorite products even though when you are on the go. It also includes delivery system and invoice system.",
     tags: [
       {
-        name: "laravel",
+        name: "Solidity Hardhat",
         color: "blue-text-gradient",
       },
       {
@@ -234,7 +234,7 @@ const projects = [
       "Web-based platform that allows users to search, book, and manage Lands, Jobs from various providers. This website is an Information Sharing website. All front-end data are retrieved from the database using API.",
     tags: [
       {
-        name: "Laravel",
+        name: "NestJS",
         color: "blue-text-gradient",
       },
       {
@@ -242,7 +242,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "MySQL",
+        name: "MongoDB",
         color: "pink-text-gradient",
       },
     ],
@@ -255,7 +255,7 @@ const projects = [
       "Developed an invoice system that allows businesses to easily create, manage, and send invoices to their clients. The system is built using Wordpress and Memberpress plugin, and includes a user friendly interface that allows businesses to easily create and customize invoices, track payments, and generate reports.",
     tags: [
       {
-        name: "Wordpress",
+        name: "NestJS Solidity Hardhat",
         color: "blue-text-gradient",
       },
       {
